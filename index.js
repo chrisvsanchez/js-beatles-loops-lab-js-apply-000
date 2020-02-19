@@ -12,7 +12,7 @@ function johnLennonPlay(facts){
   let i = 0;
   var result =[ ];
   while (i < facts.length){
-    push.result(facts[i] + "!!!");
+    push.result(i + "!!!");
     i++;
   }
   return result;

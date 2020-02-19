@@ -20,9 +20,9 @@ function iLoveTheBeatles(num){
   let newarr = [];
   let i = 0;
   do{
-    newarr += "I love the Beatles!" + 1;
+    newarr += "I love the Beatles!" + i;
     i++;
   }
-  while (i < num);
+  while (i <= num);
   return newarr;
 }

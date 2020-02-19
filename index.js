@@ -20,7 +20,7 @@ function iLoveTheBeatles(num){
   let newarr = [];
   let i = 0;
   do{
-    newarr.push("I love the Beatles!" + i);
+    newarr.push("I love the Beatles!");
     i++;
   }
   while (i <= num);

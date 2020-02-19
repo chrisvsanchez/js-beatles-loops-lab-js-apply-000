@@ -23,6 +23,6 @@ function iLoveTheBeatles(num){
     newarr.push("I love the Beatles!");
     i++;
   }
-  while (i <= num);
+  while (num <= 17);
   return newarr;
 }

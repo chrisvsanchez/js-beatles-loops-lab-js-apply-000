@@ -21,7 +21,7 @@ function iLoveTheBeatles(num){
   do{
     newarr.push("I love the Beatles!");
     num++;
-  }while (num < 15;
+  }while (num < 15);
   
   return newarr;
 }

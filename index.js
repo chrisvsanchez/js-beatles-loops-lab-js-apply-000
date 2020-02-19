@@ -11,7 +11,7 @@ function johnLennonPlay(facts){
   let i = 0;
   var result =[];
   while (i < facts.length){
-    push.result(i + "!!!");
+    push.result(facts[i] + "!!!");
     i++;
   }
   return result;

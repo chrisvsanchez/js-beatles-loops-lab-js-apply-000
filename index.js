@@ -20,7 +20,7 @@ function iLoveTheBeatles(num){
   let newarr = [];
   do{
     newarr.push("I love the Beatles!");
-    i++;
+    num++;
   }while (num < 15;
   
   return newarr;

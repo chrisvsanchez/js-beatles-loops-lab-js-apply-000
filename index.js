@@ -18,5 +18,9 @@ function johnLennonFacts(facts){
 }
 function iLoveTheBeatles(array){
   let newarr = [];
-  
+  do{
+    newarr += "I love the Beatles!" + 1;
+    i++;
+  }
+  while (i < 9);
 }

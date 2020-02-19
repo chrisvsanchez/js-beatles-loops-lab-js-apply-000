@@ -18,7 +18,6 @@ function johnLennonFacts(facts){
 }
 function iLoveTheBeatles(num){
   let newarr = [];
-  let i = num;
   do{
     newarr.push("I love the Beatles!");
     i++;
